@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09459c89.css",
+    "main.js": "/static/js/main.45e46c6b.js",
+    "static/media/sec2.png": "/static/media/sec2.7551482cefabdbaf6427.png",
+    "static/media/delicious-pizza-png.png": "/static/media/delicious-pizza-png.ce2b3c38c870f9a391aa.png",
+    "static/media/dlf.pt-pizza-png-4930314.png": "/static/media/dlf.pt-pizza-png-4930314.197974def5764e49b51a.png",
+    "static/media/background.jpg": "/static/media/background.27bc117963eea2da4d9e.jpg",
+    "static/media/pasta-2021-08-26-16-27-29-utc (1).jpg": "/static/media/pasta-2021-08-26-16-27-29-utc (1).ba2f1888b2773abf064b.jpg",
+    "static/media/pngtree-seamless-pizza-ingredients-background-picture-image_1298691.jpg": "/static/media/pngtree-seamless-pizza-ingredients-background-picture-image_1298691.252a2f08b5daeb5fc7c1.jpg",
+    "static/media/homemade-small-vegetarian-pizza-on.jpg": "/static/media/homemade-small-vegetarian-pizza-on.1cb196729b1946774d9f.jpg",
+    "static/media/bacon-and-onion-tart-with-cream-2022-03-04-01-52-35-utc (1).jpg": "/static/media/bacon-and-onion-tart-with-cream-2022-03-04-01-52-35-utc (1).cb3607f741aa50dca992.jpg",
+    "static/media/cutted-pizza.jpg": "/static/media/cutted-pizza.c7534ff3b34bd860f653.jpg",
+    "static/media/chef-serving-dishes-2021-09-24-03-13-46-utc-1.jpg": "/static/media/chef-serving-dishes-2021-09-24-03-13-46-utc-1.79043d153bd378022ffa.jpg",
+    "static/media/chef-cook-portrait-2022-05-11-02-56-57-utc.jpg": "/static/media/chef-cook-portrait-2022-05-11-02-56-57-utc.494edac00871bb458fae.jpg",
+    "static/media/foodies.png": "/static/media/foodies.68f185be477b198c33cd.png",
+    "static/media/pizza-deco1 (1).png": "/static/media/pizza-deco1 (1).349d2b0f0217cef9e60b.png",
+    "static/media/pizza-deco2 (1).png": "/static/media/pizza-deco2 (1).353e00fed98718bd770c.png",
+    "static/media/arrow-removebg-preview.png": "/static/media/arrow-removebg-preview.e18d07b9b822abe18d8f.png",
+    "static/media/signeture.PNG": "/static/media/signeture.2db94c158ad911c4749c.PNG",
+    "index.html": "/index.html",
+    "main.09459c89.css.map": "/static/css/main.09459c89.css.map",
+    "main.45e46c6b.js.map": "/static/js/main.45e46c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09459c89.css",
+    "static/js/main.45e46c6b.js"
+  ]
+}
